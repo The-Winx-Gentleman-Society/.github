@@ -64,4 +64,6 @@
     </ul>
     <p>Ou envie um e-mail para 📧 <a href="mailto:contato@thewinxgentlemansociety.com"
             target="_new">contato@thewinxgentlemansociety.com</a></p>
+
+<p>Líder: <a href="https://github.com/LuizZimbrao">Luiz Felipe Zimbrão </a> </p>
 </div>
