@@ -64,9 +64,8 @@
     </ul>
     <p>Ou envie um e-mail para 📧 <a href="mailto:contato@thewinxgentlemansociety.com"
             target="_new">contato@thewinxgentlemansociety.com</a></p>
-
     <p>Membro (líder): <a href="https://github.com/LuizZimbrao">Luiz Felipe Zimbrão </a> </p>
-    <p>Membro: <a href="https://github.com/JoelsonFerreira"Joelson Idalgo Ferreira</a> </p>
+    <p>Membro: <a href="https://github.com/JoelsonFerreira">Joelson Idalgo Ferreira</a> </p>
     <p>Membro: <a href="https://github.com/Oliveira00">Rafael Oliveira</a> </p>
-    <p>Membro: <a href="https://github.com/EliasGabriel1"Elias Gabriel</a> </p>
+    <p>Membro: <a href="https://github.com/EliasGabriel1">Elias Gabriel</a> </p>
 </div>
